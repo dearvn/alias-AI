@@ -8,3 +8,14 @@ Alias AI is a project that aims to create realistic and expressive virtual perso
 •  Creating avatars for the metaverse, which is a virtual world where people can socialize, play, and work. For example, Ready Player Me is a tool that allows users to create a realistic and personalized avatar from a selfie, and use it in hundreds of games and apps, such as VRChat, Rec Room, and Snapchat.
 
 Alias AI is an innovative and ambitious project that aims to revolutionize the way people communicate, learn, and entertain with virtual persons. However, it also raises some ethical and social issues, such as the potential misuse of the technology, the impact on the identity and privacy of the real persons, and the effect on the human relationships and emotions. Therefore, Alias AI should be used with caution and responsibility, and follow the best practices and guidelines for the development and deployment of the technology.
+
+
+# Refs
+
+1. https://github.com/huggingface/transformers
+2. https://github.com/nrl-ai/CustomChar
+3. https://github.com/AUTOMATIC1111/stable-diffusion-webui
+4. https://github.com/keras-team/keras
+5. https://github.com/CorentinJ/Real-Time-Voice-Cloning
+6. https://github.com/labmlai/annotated_deep_learning_paper_implementations
+7. https://github.com/weihaox/awesome-digital-human
